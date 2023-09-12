@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "esbuild index.js --format=esm --target=es2022 --bundle --outfile=out.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.19.2"
+  }
+}
