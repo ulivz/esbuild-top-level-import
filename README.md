@@ -7,4 +7,5 @@
 ```bash
 pnpm i
 pnpm build
+pnpm profile
 ```
